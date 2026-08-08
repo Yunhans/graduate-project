@@ -2,6 +2,8 @@
 
 > 這是一個利用 AI 幫助初學者建立資料庫以及 ERD 的網頁小工具
 
+[![介紹Youtube影片](https://img.youtube.com/vi/SHKAMslOoro/0.jpg)](https://www.youtube.com/watch?v=SHKAMslOoro)
+
 開發成員們
 | 姓名 | github | 主要負責 |
 | :--: | :-- | :--: |
